@@ -1,0 +1,15 @@
+Variable :
+Es como una cajita donde puedes guardar cualquier tipo de dato.
+Strings :
+Se refiere a cualquier tipo de texto y siempre va dentro de comillas.
+Funciones : 
+Son herramientas que nos sirven para ahorrar codigo.
+Argumentos : 
+Son variables que se utilizan dento de una funcion.
+Return : 
+Devuelve el resultado de la operacion de una funcion.
+Declaraciones if :
+Son las que nos prmiten tener un control de la informacion, poniendo condiciones.
+Valores Booleanos :
+Son dos valores posibles verdadero o falso.
+
